@@ -2,8 +2,8 @@ CGAProject
 ----------
 Projektname
 -----------
-Titelname Avora 
----------------
+Avora 
+-----------
 
 Teammitglieder
 -------------
