@@ -1,15 +1,16 @@
 CGAProject
-
+----------
 Projektname
-
+-----------
 Titelname Avora 
-
+---------------
 
 Teammitglieder
-
+-------------
 Mike Klement
 
 Featureliste
+------------
 
 Terrain mit Multitexturing und Nebel (Bug Fixing Phase)
 
