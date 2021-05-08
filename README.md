@@ -25,8 +25,11 @@ Belichtung mit Per-Pixel Lighting und Specular Lighting
 Modelle: Spielerfigur,Bäume sowie weitere Waldelemente
 
 Code von Dritten
+----------------
 OBJLoader.Java
+
 Math.java 
+
 (Sowohl kleinere Codestücke die in den jewaligen Codeklassen kommentiert sind.)
 
 
