@@ -12,7 +12,7 @@ Mike Klement
 Featureliste
 ------------
 
-Terrain mit Multitexturing und Nebel (Bug Fixing Phase)
+Terrain mit Multitexturing und Nebel sowie versuchter Transparenz (Bug Fixing Phase)
 
 Dynamische Kamera mit 3D Perspektive sowie WASD-Steuerung (Bug Fixing Phase)
 
@@ -24,7 +24,9 @@ Belichtung mit Per-Pixel Lighting und Specular Lighting
 
 Modelle: Spielerfigur,Bäume sowie weitere Waldelemente
 
-(Coden von Dritten würde im Soucre-Code genauer kommentiert.)
-
+Code von Dritten
+OBJLoader.Java
+Math.java 
+(Sowohl kleinere Codestücke die in den jewaligen Codeklassen kommentiert sind.)
 
 
