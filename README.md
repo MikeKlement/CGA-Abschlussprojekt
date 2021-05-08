@@ -1,4 +1,4 @@
-CGAProject
+CGA-Project
 ----------
 Projektname
 -----------
