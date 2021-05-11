@@ -14,7 +14,7 @@ Featureliste
 
 Terrain mit Multitexturing und Nebel sowie versuchter Transparenz 
 
-Dynamische Kamera mit 3D Perspektive sowie WASD-Steuerung 
+Dynamische Kamera mit 3D Perspektive sowie WASD-Steuerung und Zoom
 
 Grafische Benutzeroberfläche bzw. Einfügung von Text und Bildelementen
 
