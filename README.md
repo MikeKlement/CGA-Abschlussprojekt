@@ -12,13 +12,13 @@ Mike Klement
 Featureliste
 ------------
 
-Terrain mit Multitexturing und Nebel sowie versuchter Transparenz (Bug Fixing Phase)
+Terrain mit Multitexturing und Nebel sowie versuchter Transparenz 
 
-Dynamische Kamera mit 3D Perspektive sowie WASD-Steuerung (Bug Fixing Phase)
+Dynamische Kamera mit 3D Perspektive sowie WASD-Steuerung 
 
 Grafische Benutzeroberfläche bzw. Einfügung von Text und Bildelementen
 
-Himmel mit Tagesryhtmus (Bug Fixing Phase)
+Himmel mit Tagesryhtmus 
 
 Belichtung mit Per-Pixel Lighting und Specular Lighting 
 
@@ -30,6 +30,6 @@ OBJLoader.Java
 
 Math.java 
 
-(Sowohl kleinere Codestücke die in den jewaligen Codeklassen kommentiert sind.)
+
 
 
